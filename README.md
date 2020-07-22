@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# LanikSJ GitHub Projects
 
-You can use the [editor on GitHub](https://github.com/LanikSJ/laniksj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-   [Projects](#projects)
+-   [Support](#support)
+-   [Contact](#contactt)
+-   [License](#license)
+-   [Donate](#donate)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you'll find my GitHub Projects.
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [AWS CLI Aliases](https://github.com/LanikSJ/awscli-aliases)
+- [Docker File from Image](https://github.com/LanikSJ/dfimage)
+- [Docker PHP Alpine](https://github.com/LanikSJ/docker-php-alpine)
+- [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
+- [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
+- [uBO Filters](https://github.com/LanikSJ/ubo-filters)
 
-```markdown
-Syntax highlighted code block
+## Support
 
-# Header 1
-## Header 2
-### Header 3
+Having trouble with with one of my projects click the link for one of my projects and open an issue.
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
+Best place to contact me is either through GitHub or [EasyList Forum](https://forums.lanik.us).
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://en.wikipedia.org/wiki/MIT_License)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Donate
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LanikSJ/laniksj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Patreon](https://img.shields.io/badge/patreon-donate-red.svg)](https://www.patreon.com/laniksj/overview)
