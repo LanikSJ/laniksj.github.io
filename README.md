@@ -10,12 +10,12 @@ Here you'll find my GitHub Projects.
 
 ## Projects
 
-- [AWS CLI Aliases](https://github.com/LanikSJ/awscli-aliases)
-- [Docker File from Image](https://github.com/LanikSJ/dfimage)
-- [Docker PHP Alpine](https://github.com/LanikSJ/docker-php-alpine)
-- [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
-- [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
-- [uBO Filters](https://github.com/LanikSJ/ubo-filters)
+-   [AWS CLI Aliases](https://github.com/LanikSJ/awscli-aliases)
+-   [Docker File from Image](https://github.com/LanikSJ/dfimage)
+-   [Docker PHP Alpine](https://github.com/LanikSJ/docker-php-alpine)
+-   [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
+-   [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
+-   [uBO Filters](https://github.com/LanikSJ/ubo-filters)
 
 ## Support
 
