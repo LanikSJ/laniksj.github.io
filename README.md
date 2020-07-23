@@ -19,7 +19,7 @@ Here you'll find my GitHub Projects.
 
 ## Support
 
-Having trouble with with one of my projects click the link for one of my projects and open an issue.
+Having trouble with with one of my projects? Click the link for one of my projects and open an issue.
 
 ## Contact
 
