@@ -2,7 +2,7 @@
 
 -   [Projects](#projects)
 -   [Support](#support)
--   [Contact](#contactt)
+-   [Contact](#contact)
 -   [License](#license)
 -   [Donate](#donate)
 
