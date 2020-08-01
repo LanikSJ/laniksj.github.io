@@ -16,6 +16,7 @@ Here you'll find my GitHub Projects.
 -   [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
 -   [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
 -   [uBO Filters](https://github.com/LanikSJ/ubo-filters)
+-   [ZSH Theme](https://github.com/LanikSJ/zsh-theme)
 
 ## Support
 
