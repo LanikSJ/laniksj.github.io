@@ -1,5 +1,10 @@
 # LanikSJ GitHub Projects
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/laniksj/laniksj.github.io)
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/laniksj/laniksj.github.io)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/laniksj/laniksj.github.io)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/laniksj/laniksj.github.io)  
+
 -   [Projects](#projects)
 -   [Support](#support)
 -   [Contact](#contact)
