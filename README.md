@@ -38,4 +38,4 @@ Best place to contact me is either through GitHub or [EasyList Forum](https://fo
 
 ## Donate
 
-[![Patreon](https://img.shields.io/badge/patreon-donate-red.svg)](https://www.patreon.com/laniksj/overview)
+[![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/laniksj/overview)
