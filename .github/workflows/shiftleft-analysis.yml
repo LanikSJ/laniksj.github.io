@@ -1,4 +1,4 @@
-name: shiftleft-scan
+name: ShiftLeft Scan
 
 on:
   push:
