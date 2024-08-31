@@ -7,8 +7,8 @@ on:
     branches-ignore:
       - dependabot/**
   schedule:
-    # Once every day at 1am UTC
-    - cron: "0 1 * * *"
+    # Once every month on 11 day at 18:25 UTC
+    - cron: "25 18 11 * *"
   issue_comment:
 
 permissions:
