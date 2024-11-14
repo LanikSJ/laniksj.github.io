@@ -3,10 +3,10 @@ name: ShiftLeft Scan
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   Scan-Build:
@@ -23,7 +23,7 @@ jobs:
       with:
         output: reports
 
-    - name: Upload report
+    - name: Upload Report
       uses: github/codeql-action/upload-sarif@v3
       with:
         sarif_file: reports
