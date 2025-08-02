@@ -17,18 +17,20 @@ Here you'll find my GitHub Projects and Forks that I maintain.
 
 ## 📁 Projects
 
-- [Android Messages](https://github.com/LanikSJ/android-messages-desktop)
-- [AWS CLI Aliases](https://github.com/LanikSJ/awscli-aliases)
-- [Docker File from Image](https://github.com/LanikSJ/dfimage)
-- [Docker PHP Alpine](https://github.com/LanikSJ/docker-php-alpine)
-- [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
-- [Homebrew Tap](https://github.com/LanikSJ/homebrew-tap)
-- [LSUSB](https://github.com/LanikSJ/lsusb)
-- [Neofetch](https://github.com/LanikSJ/neofetch)
-- [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
-- [uBO Filters](https://github.com/LanikSJ/ubo-filters)
-- [Web Annoyances](https://github.com/LanikSJ/webannoyances)
-- [ZSH Theme](https://github.com/LanikSJ/laniksj-zsh-theme)
+- 📝 [AdmiraList](https://github.com/LanikSJ/AdmiraList)
+- 📱 [Android Messages](https://github.com/LanikSJ/android-messages-desktop)
+- ☁️ [AWS CLI Aliases](https://github.com/LanikSJ/awscli-aliases)
+- 🐳 [Docker File from Image](https://github.com/LanikSJ/dfimage)
+- 🐘 [Docker PHP Alpine](https://github.com/LanikSJ/docker-php-alpine)
+- 🌐 [Docker Web Service](https://github.com/LanikSJ/docker-web-service)
+- 🍺 [Homebrew Tap](https://github.com/LanikSJ/homebrew-tap)
+- 👤 [LanikSJ](https://github.com/LanikSJ/laniksj)
+- 🔌 [LSUSB](https://github.com/LanikSJ/lsusb)
+- 💻 [Neofetch](https://github.com/LanikSJ/neofetch)
+- 🌙 [Slack Dark Mode](https://github.com/LanikSJ/slack-dark-mode)
+- 🛡️ [uBO Filters](https://github.com/LanikSJ/ubo-filters)
+- 🚫 [Web Annoyances](https://github.com/LanikSJ/webannoyances)
+- 🐚 [ZSH Theme](https://github.com/LanikSJ/laniksj-zsh-theme)
 
 ## 🛟 Support
 
