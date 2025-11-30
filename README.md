@@ -34,7 +34,8 @@ Here you'll find my GitHub Projects and Forks that I maintain.
 
 ## 🛟 Support
 
-Having trouble with with one of my projects? Click the link for one of my projects and open an issue.
+Having trouble with with one of my projects? Click the link for one of my
+projects and open an issue.
 
 ## 📬 Contact
 
