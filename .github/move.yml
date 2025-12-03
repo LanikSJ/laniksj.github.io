@@ -1,27 +1,28 @@
-# Configuration for move-issues - https://github.com/dessant/move-issues
+# Configuration for Move Issues - https://github.com/dessant/move-issues
+# Note: This project is no longer maintained.
 
+# Issue closure and locking
+# Close the source issue after moving
+closeSourceIssue: true
+# Lock the source issue after moving (prevents further comments)
+lockSourceIssue: true
+
+# Command handling
 # Delete the command comment when it contains no other content
 deleteCommand: true
 
-# Close the source issue after moving
-closeSourceIssue: true
-
-# Lock the source issue after moving
-lockSourceIssue: true
-
-# Mention issue and comment authors
+# Content migration
+# Mention issue and comment authors in the new location
 mentionAuthors: true
-
-# Preserve mentions in the issue content
+# Preserve mentions in the issue content (e.g., @user references)
 keepContentMentions: false
-
 # Move labels that also exist on the target repository
 moveLabels: true
 
-# Set custom aliases for targets
+# Custom aliases for targets (optional)
 # aliases:
-#   r: repo
-#   or: owner/repo
+#   r: repo-name
+#   or: owner/repo-name
 
-# Repository to extend settings from
-# _extends: repo
+# Repository to extend settings from (optional)
+# _extends: owner/repo-name
