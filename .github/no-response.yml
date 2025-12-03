@@ -1,15 +1,18 @@
 # Configuration for probot-no-response - https://github.com/probot/no-response
-# Manages stale issues by closing those without responses to maintainer requests
 
-# Number of days of inactivity before an Issue is closed for lack of response
-daysUntilClose: 7
-# Label requiring a response
-responseRequiredLabel: needs-more-info
-# Comment to post when closing an Issue for lack of response. Set to `false` to disable
+# Only apply to issues (default: issue, can be 'pr' or 'both')
+type: issue
+
+# Number of days of inactivity before closing an issue for lack of response
+daysUntilClose: 14
+
+# Label that requires a response
+responseRequiredLabel: 'awaiting user reply'
+
+# Comment to post when closing the issue (set to false to disable)
 closeComment: >
-  This issue has been automatically closed because there has been no response
-  to our request for more information. Without the additional details, we cannot
-  proceed with debugging or implementing this feature.
+  This issue has been automatically closed due to lack of response.
+  We need more information to proceed. Please provide the details requested
+  to allow us to investigate.
 
-  If you have the requested information, please create a new issue with the full context.
-  For guidelines on submitting effective issues, see our [Contributing Guide](CONTRIBUTING.md).
+  You can reopen the issue once you have the information ready.

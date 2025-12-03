@@ -4,8 +4,13 @@ updates:
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
-      interval: weekly
+      interval: daily
+      time: "09:30"
+      timezone: "America/Los_Angeles"
     open-pull-requests-limit: 20
+    labels:
+      - "dependencies"
+      - "github-actions"
     groups:
       # Group actions together for cleaner PRs
       github-actions:

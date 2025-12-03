@@ -1,28 +1,23 @@
-# Configuration for Move Issues - https://github.com/dessant/move-issues
-# Note: This project is no longer maintained.
+# Configuration for move-issues - https://github.com/dessant/move-issues
+# This action allows moving GitHub issues between repositories with configurable options
 
-# Issue closure and locking
-# Close the source issue after moving
-closeSourceIssue: true
-# Lock the source issue after moving (prevents further comments)
-lockSourceIssue: true
+# Issue processing options
+deleteCommand: true          # Delete the command comment if it contains no other content
+closeSourceIssue: true       # Close the source issue after moving to prevent further activity
+lockSourceIssue: true        # Lock the source issue to prevent new comments/edits
+mentionAuthors: true         # Mention original issue and comment authors in the moved issue
+keepContentMentions: false   # Do not preserve @ mentions in issue content to avoid unwanted notifications
 
-# Command handling
-# Delete the command comment when it contains no other content
-deleteCommand: true
+# Label and assignment options
+moveLabels: true             # Move labels that exist on the target repository
+ignoreMissingLabels: true    # Ignore labels that don't exist on target rather than failing
+moveAssignee: true           # Move issue assignee if user exists on target repository
 
-# Content migration
-# Mention issue and comment authors in the new location
-mentionAuthors: true
-# Preserve mentions in the issue content (e.g., @user references)
-keepContentMentions: false
-# Move labels that also exist on the target repository
-moveLabels: true
-
-# Custom aliases for targets (optional)
+# Repository configuration
+# Uncomment and configure aliases for commonly used target repositories
 # aliases:
-#   r: repo-name
-#   or: owner/repo-name
+#   main-repo: owner/main-repository
+#   archived: owner/archived-issues
 
-# Repository to extend settings from (optional)
-# _extends: owner/repo-name
+# Uncomment to extend configuration from another repository's move.yml file
+# _extends: owner/config-repo
