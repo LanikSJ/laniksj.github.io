@@ -1,0 +1,55 @@
+# Cline Rules for laniksj.github.io Repository
+
+## Repository Overview
+
+laniksj.github.io is a GitHub Pages site for personal web content and portfolio.
+
+## Code Standards and Practices
+
+### Web Standards
+
+- Follow modern HTML5, CSS3, and JavaScript best practices
+- Implement responsive design for mobile and desktop
+- Ensure accessibility compliance (WCAG guidelines)
+- Optimize for performance and loading speed
+
+### Documentation Standards
+
+- Include clear content management and deployment procedures
+- Document site features, customization options, and themes
+- Provide contribution guidelines for content updates
+- Use markdown formatting consistently
+
+### Markdown Compliance Requirements
+
+- **ALL markdown files (.md) MUST pass markdownlint validation with zero errors or warnings**
+- Run `markdownlint <filename>` on every markdown file before considering it complete
+- Follow the project's `.markdownlint.json` configuration strictly
+- Address ALL markdownlint issues immediately - no exceptions or workarounds
+- Common requirements include:
+  - Maximum line length of 120 characters (MD013)
+  - Consistent heading styles and hierarchy
+  - Proper list formatting and indentation
+  - Blank lines around headings and code blocks
+  - Consistent link and reference formatting
+  - No trailing whitespace
+  - Files must end with newlines
+  - Proper table formatting when applicable
+- Use `markdownlint --fix <filename>` for auto-fixable issues when available
+- Validate markdown files in CI/CD pipelines where applicable
+
+## Development Guidelines
+
+### When Making Changes
+
+- Preserve existing functionality unless explicitly asked to change it
+- Update documentation when adding new content or modifying site features
+- Test changes across different browsers and devices
+- **Always run markdownlint and fix all issues in markdown files before considering changes complete**
+
+### GitHub Pages Standards
+
+- Maintain Jekyll compatibility for static site generation
+- Implement proper front matter and markdown processing
+- Use appropriate GitHub Pages themes and configurations
+- Test deployment builds and final rendered output
