@@ -10,28 +10,9 @@ updates:
       - "dependencies"
       - "github-actions"
     groups:
-      # Group actions together for cleaner PRs
       github-actions:
         patterns:
           - "*"
-          - "!docker/login-action"
-          - "!docker/build-push-action"
-        update-types:
-          - "minor"
-          - "patch"
-      # Group Docker actions separately due to breaking changes
-      docker-actions:
-        patterns:
-          - "docker/*"
-        update-types:
-          - "minor"
-          - "patch"
     commit-message:
       prefix: "ci(deps)"
       prefix-development: "ci(deps-dev)"
-    # Ignore experimental major versions
-    ignore:
-      - dependency-name: "actions/*"
-        update-types: ["version-update:semver-major"]
-      - dependency-name: "github/*"
-        update-types: ["version-update:semver-major"]
