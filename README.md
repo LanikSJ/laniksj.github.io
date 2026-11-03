@@ -84,6 +84,8 @@ and developer productivity.
   - EasyList community forums
 - 👤 [LanikSJ](https://github.com/LanikSJ/laniksj)
   - My personal GitHub profile repository
+- 🐘 [phpBB AJAX Registration Check](https://github.com/LanikSJ/phpBB-AJAX-Registration-Check)
+  - phpBB extension that validates registration form data with AJAX
 
 ### 🎨 Themes Customizations
 
